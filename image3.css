@@ -45,7 +45,8 @@ background-color: rgb(138, 103, 38);
     width: 100%;
     display: flex;
     align-items: end;
-    justify-content: space-between;
+    justify-content: center;
+    
 }
 .container .img{
     display: flex;
@@ -53,7 +54,7 @@ background-color: rgb(138, 103, 38);
     justify-content: center;
 }
 .img{
-    
+    padding: 10px; margin: 10px;
     width: 175px;
 height: 175px;
 background-color: chocolate;
